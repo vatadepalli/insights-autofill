@@ -3,7 +3,7 @@
 Install node.
 Clone the directory to a local folder & cd into it.
 
-Run this command just once
+Run this command just once.
 $ npm install
 
 
